@@ -42,3 +42,8 @@ li {
     float:center;
     border: #ffcc33 5px solid;
 }
+blockquote {
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: .25em solid #dfe2e5;
+  }
